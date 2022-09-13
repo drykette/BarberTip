@@ -3,7 +3,7 @@
 ![Badge em Versão](http://img.shields.io/static/v1?label=VERSÃO&message=%201.0&color=GREEN&style=for-the-badge)
 ![Badge em Modificação](http://img.shields.io/static/v1?label=ATUALIZAÇÃO&message=EM%20SETEMBRO&color=GREEN&style=for-the-badge)
 
-Sistema de Gerenciamento de Barbearia Pequeno e médio Porte - SGBPM.
+Sistema de Gerenciamento de Barbearia Pequeno e Médio Porte - SGBPM.
 
 
 ## Indice
@@ -62,9 +62,7 @@ E todo o passo a passo de como acessar o nosso site a partir de um git clone ou 
 
 ## Contribuidores e Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/23423067?v=4" width=115><br><sub>Adrielly Rodrigues</sub>](https://github.com/drykette) | [<img src="https://avatars.githubusercontent.com/u/94652968?v=4" width=115><br><sub>Amilton Ferreira</sub>](https://github.com/amiltonmtv) | [<img src="https://avatars.githubusercontent.com/u/38871093?v=4" width=115><br><sub>Cleiton Soares</sub>](https://github.com/Cleitonsoares1990) | [<img src="https://avatars.githubusercontent.com/u/94574632?v=4" width=115><br><sub>Daniel Costa</sub>](https://github.com/daniel-csilva) | [<img src="https://avatars.githubusercontent.com/u/94576154?v=4" width=115><br><sub>Ewerton Vinicius</sub>](https://github.com/2ewerton) | [<img src="https://avatars.githubusercontent.com/u/94652912?v=4" width=115><br><sub>Keven Cavalcante</sub>](https://github.com/Keven-Galeno) | [<img src="https://avatars.githubusercontent.com/u/7028250?v=4" width=115><br><sub>John Lynn Rodrigues</sub>](https://github.com/JohnLynn) | [<img src="https://avatars.githubusercontent.com/u/94577778?v=4" width=115><br><sub>Reudiellison Patrick</sub>](https://github.com/Reudiellison) | [<img src="https://avatars.githubusercontent.com/u/77131963?v=4" width=115><br><sub>Samuel Nobre</sub>](https://github.com/SamuelNobre) | [<img src="https://avatars.githubusercontent.com/u/94574548?v=4" width=115><br><sub>Wanderson Suares</sub>](https://github.com/Wandersonwas) |
-
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
+| [<img src="https://avatars.githubusercontent.com/u/23423067?v=4" width=115><br><sub>Adrielly Rodrigues</sub>](https://github.com/drykette) |  [<img src="https://avatars.githubusercontent.com/u/94652968?v=4" width=115><br><sub>Amilton Ferreira</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/38871093?v=4" width=115><br><sub>Cleiton Soares</sub>](https://github.com/Cleitonsoares1990) |  [<img src="https://avatars.githubusercontent.com/u/94574632?v=4" width=115><br><sub>Daniel Costa</sub>](https://github.com/daniel-csilva) |  [<img src="https://avatars.githubusercontent.com/u/94576154?v=4" width=115><br><sub>Ewerton Vinicius</sub>](https://github.com/2ewerton) |  [<img src="https://avatars.githubusercontent.com/u/94652912?v=4" width=115><br><sub>Keven Cavalcante</sub>](https://github.com/Keven-Galeno) |  [<img src="https://avatars.githubusercontent.com/u/7028250?v=4" width=115><br><sub>John Lynn Rodrigues</sub>](https://github.com/JohnLynn) |  [<img src="https://avatars.githubusercontent.com/u/94577778?v=4" width=115><br><sub>Reudiellison Patrick</sub>](https://github.com/Reudiellison) |  [<img src="https://avatars.githubusercontent.com/u/77131963?v=4" width=115><br><sub>Samuel Nobre</sub>](https://github.com/SamuelNobre) |  [<img src="https://avatars.githubusercontent.com/u/101663986?v=4" width=115><br><sub>Rômulo Silvestre</sub>](https://github.com/romulosilvestre) |  [<img src="https://avatars.githubusercontent.com/u/94574548?v=4" width=115><br><sub>Wanderson Suares</sub>](https://github.com/Wandersonwas) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ## Licença
