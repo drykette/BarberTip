@@ -6,11 +6,11 @@
 Sistema de Gerenciamento de Barbearia Pequeno e Médio Porte - SGBPM.
 
 
-## Indice
+## Tópicos
 
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Funcionalidades](#funcionalidades)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Contribuidores e Desenvolvedores](#contribuidores-e-desenvolvedores)
@@ -24,24 +24,28 @@ O desenvolvimento do sistema web “Barber Tip”, proporcionará a administraç
 
 > :construction: Projeto em construção :construction:
 
-## Funcionalidades e Demonstração da Aplicação
+## Funcionalidades 
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+:heavy_check_mark: `Funcionalidade 1`: descrição da funcionalidade 1
 
-# Acesso ao Projeto
+:heavy_check_mark: `Funcionalidade 2`: descrição da funcionalidade 2
 
-## Install
+:heavy_check_mark: `Funcionalidade 3`: descrição da funcionalidade 3
+
+:heavy_check_mark: `Funcionalidade 4`: descrição da funcionalidade 4
+
+# Acesso ao Projeto 
+
+### Pré-requisitos
+:warning: O que é necessario pra que a api rode em qualquer maquina
+
+### Instalação
 
     blablablabla install
     
 E todo o passo a passo de como acessar o nosso site a partir de um git clone ou de um URL...
 
-## Estrutura
-
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - ``React``
 - ``Node``
